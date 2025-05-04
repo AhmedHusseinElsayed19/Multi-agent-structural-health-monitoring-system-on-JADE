@@ -76,3 +76,12 @@ This project is licensed under the [MIT License](LICENSE).
 Master’s Thesis – TUHH  
 Contact: https://www.linkedin.com/in/ahmed-hussein-mahmoud-b05450111/
 
+
+---
+
+
+## 🎥 System Demo
+Below is a demonstration of the working multi-agent-based SHM system:
+
+![MAS Demo](mas-demo.gif)
+
