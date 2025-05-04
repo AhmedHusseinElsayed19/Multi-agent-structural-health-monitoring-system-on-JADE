@@ -59,7 +59,7 @@ This project:
 
 - ESP32-S3 DevKitC-1  
 - Raspberry Pi 4 or later  
-- Sensors: BNO085 IMU, BME280  
+- Sensors: BNO085 IMU, BME280 Enivronmental 
 - MQTT Broker (e.g., Mosquitto)  
 - Java Runtime Environment for JADE  
 - Arduino IDE for ESP32 programming
