@@ -1,7 +1,7 @@
 # 🏗️ Multi-Agent-Based Structural Health Monitoring System for Civil Infrastructure
 
 ![Platform](https://img.shields.io/badge/platform-ESP32%20%7C%20RaspberryPi-green)
-![Language](https://img.shields.io/badge/language-C++%20%7C%20Java%20%7C%20Python-blue)
+![Language](https://img.shields.io/badge/language-C++%20%7C%20Java%20%7C%)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 ## 🎯 Objective  
