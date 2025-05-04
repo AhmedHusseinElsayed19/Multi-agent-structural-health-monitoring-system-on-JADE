@@ -82,7 +82,7 @@ For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@tuhh.
 ## 🙋‍♂️ Author  
 **Ahmed Mahmoud**  
 Master’s Thesis – TUHH  
-Contact: https://www.linkedin.com/in/ahmed-hussein-mahmoud-b05450111/
+Contact: [ahmed.mahmoud@tuhh.de]
 
 
 ---
