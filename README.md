@@ -66,8 +66,16 @@ This project:
 
 ---
 
-## 📄 License  
-This project is licensed under the [LICENSE](./All Rights Reserved).
+## 🚫 License & Usage Policy
+
+> ⚠️ **All Rights Reserved** – Unauthorized use or copying of any part of this repository will lead to **legal and ethical consequences**.
+
+This project is **not licensed for public use** and is **not open source**. All content — including code, documentation, assets, and research — is the sole intellectual property of Ahmed Mahmoud.  
+Any attempt to plagiarize, repurpose, or redistribute this work without explicit written permission will be treated as a **severe violation of both ethics and copyright law**.
+
+📄 Read the full [All Rights Reserved](./All%20Rights%20Reserved) statement.
+
+For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@tuhh.de]
 
 ---
 
