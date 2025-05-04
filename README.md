@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-ESP32%20%7C%20RaspberryPi-green)
 ![Language](https://img.shields.io/badge/language-C++%20%7C%20Java%20%7C%20Python-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![License](https://img.shields.io/badge/license-All Rights Reserved-lightgrey)
 
 ## 🎯 Objective  
 Develop a **Multi-Agent System (MAS)** for **Structural Health Monitoring (SHM)** of civil infrastructure, addressing:
