@@ -1,1 +1,1 @@
-# Multi-agent-structural-health-monitoring-system-on-JADE
+# Multi-agent structural health monitoring system on JADE
