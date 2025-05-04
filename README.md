@@ -38,5 +38,41 @@ This project:
 
 ---
 
-## 🗂️ Project Structure  
+## 🚀 Setup & Installation
+
+### ESP32 Sensor Node  
+1. Install **Arduino IDE** with ESP32 board support  
+2. Install libraries:  
+   - `Adafruit BME280`
+   - `Adafruit BNO08x`
+   - `PubSubClient` (for MQTT)  
+3. Flash the code in `/src/esp32/` to your ESP32-S3 board
+
+### JADE Agent Environment (Raspberry Pi)  
+1. Install Java and JADE on the Raspberry Pi  
+2. Run agents from `/src/jade_agents/`  
+3. Connect to the MQTT broker (e.g., Mosquitto) for agent-node communication
+
+---
+
+## 📌 Requirements
+
+- ESP32-S3 DevKitC-1  
+- Raspberry Pi 4 or later  
+- Sensors: BNO085 IMU, BME280  
+- MQTT Broker (e.g., Mosquitto)  
+- Java Runtime Environment for JADE  
+- Arduino IDE for ESP32 programming
+
+---
+
+## 📄 License  
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Author  
+**Ahmed Mahmoud**  
+Master’s Thesis – TUHH  
+Contact: https://www.linkedin.com/in/ahmed-hussein-mahmoud-b05450111/
 
