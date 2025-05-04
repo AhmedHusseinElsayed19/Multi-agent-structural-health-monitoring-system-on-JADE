@@ -67,7 +67,7 @@ This project:
 ---
 
 ## 📄 License  
-This project is licensed under the [MIT License](./MIT_LICENSE).
+This project is licensed under the [LICENSE](./All Rights Reserved).
 
 ---
 
