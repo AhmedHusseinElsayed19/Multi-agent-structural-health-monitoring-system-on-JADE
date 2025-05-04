@@ -79,6 +79,10 @@ For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@tuhh.
 
 ---
 
+📄 Read our [DMCA Notice](./DMCA_NOTICE.md) for reporting unauthorized use.
+
+---
+
 ## 🙋‍♂️ Author  
 **Ahmed Mahmoud**  
 Master’s Thesis – TUHH  
