@@ -84,7 +84,7 @@ For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@aas.t
 ---
 
 ## 🙋‍♂️ Author  
-**Ahmed Mahmoud**  
+**Ahmed H.Mahmoud**  
 Research Associate - Professorship for Automated and Autonomous Systems | TU Bergakademie Freiberg  
 Contact: [ahmed.mahmoud@aas.tu-freiberg.de]
 
