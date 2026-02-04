@@ -86,7 +86,7 @@ For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@aas.t
 ## 🙋‍♂️ Author  
 **Ahmed Mahmoud**  
 Master’s Thesis – TUHH  
-Contact: [ahmed.mahmoud@tuhh.de]
+Contact: [ahmed.mahmoud@aas.tu-freiberg.de]
 
 
 ---
