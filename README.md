@@ -75,7 +75,7 @@ Any attempt to plagiarize, repurpose, or redistribute this work without explicit
 
 📄 Read the full [All Rights Reserved](./All%20Rights%20Reserved) statement.
 
-For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@tuhh.de]
+For inquiries about usage or collaboration, please contact: [ahmed.mahmoud@aas.tu-freiberg.de]
 
 ---
 
